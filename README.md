@@ -19,6 +19,23 @@ curl https://github.com/Elagoht/overwatch2-dxvkcache/raw/master/Overwatch.dxvk-c
 
 Then you can start to play Overwatch 2. 
 
+# Maps Tested and Passed
+
+* Ilios
+* Circuit Royal
+* Havana
+* Route 66
+* Paraiso
+* Colosseo
+* Horizon Lunar Colony
+
+# Characters
+
+There are no charachters or animation that causes any shuttering. 
+
 # Contributing 
 
 You can create Pull Requests to update that file when needed.
+But you must use <https://github.com/DarkTigrus/dxvk-cache-tool> to merge your
+cache file with the cache file in this repo. Generated cache file must be
+higher file size than this cache file.
