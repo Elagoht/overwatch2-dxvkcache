@@ -28,6 +28,14 @@ Then you can start to play Overwatch 2.
 * Paraiso
 * Colosseo
 * Horizon Lunar Colony
+* Dorado **not perfect**
+* Oasis **not perfect**
+* Junkertown **not perfect**
+* New Queen Streeet **not perfect**
+* lijiang tower **not perfect**
+* King's Row
+* Petra 
+
 
 # Characters
 
