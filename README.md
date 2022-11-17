@@ -31,14 +31,19 @@ Then you can start to play Overwatch 2.
 * King's Row
 * Petra 
 
-# Maps That Not Perfect
+# Not Bad 
 
-* Dorad x2 (still not perfect)
+* Busan
+* New Queen Streeet
+
+# Maps That Not Good
+
+* Dorad
 * Oasis 
 * Junkertown
-* New Queen Streeet
 * lijiang tower
 * Hollywood
+
 
 # Characters
 
