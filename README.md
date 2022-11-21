@@ -19,6 +19,12 @@ curl https://github.com/Elagoht/overwatch2-dxvkcache/raw/master/Overwatch.dxvk-c
 
 Then you can start to play Overwatch 2. 
 
+# Low Graphics Results Better Gameplay
+
+Please consider that. My GPU runs the game stable 144 FPS. But on the maps that
+have complete shader caches. Lower Graphs results better FPS and lesser
+shuttering. 
+
 # Maps Tested and Passed
 
 * Ilios
@@ -30,11 +36,11 @@ Then you can start to play Overwatch 2.
 * Horizon Lunar Colony
 * King's Row
 * Petra 
+* New Queen Streeet
 
-# Not Bad 
+# Maps That Not Bad 
 
 * Busan
-* New Queen Streeet
 
 # Maps That Not Good
 
