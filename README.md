@@ -1,5 +1,8 @@
 # Overwatch 2 Lutris Installer DXVK Cache
 
+![Discontinued](https://shields.io/badge/Discontinued-red?logo=nutanix&logoColor=white&style=for-the-badge)
+![Vulkan](https://shields.io/badge/DXVK_Cache-AC162C?logo=vulkan&logoColor=white&style=for-the-badge)
+
 This file is required to play Overwatch 2 properly. Some updates may require
 more cache process. Your computer needs that cache file to run graphics
 faster. It compiles shader caches itself and this is a very long and exhausting
